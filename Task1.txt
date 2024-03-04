@@ -1,1 +1,2 @@
-In the Git commands first task i'm doing
+In the Git commands first task completed
+This is a task one
