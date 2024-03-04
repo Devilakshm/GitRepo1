@@ -3,4 +3,4 @@ dl=4
 lst.remove(2,dl)
 print(lst)
 print("Lakshmipadma")
-print("lucky")
+
